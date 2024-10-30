@@ -1,0 +1,15 @@
+.shippin-form input{
+    margin-left: 250px;
+   margin-top: 10px;
+   border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shippin-form{
+   
+    align-items: center;
+}
+.error{
+    color: red;
+}
